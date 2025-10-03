@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024818595834",
+    "project_id": "bloomifyshop-5f78b",
+    "storage_bucket": "bloomifyshop-5f78b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024818595834:android:0477e75e1300b1ae0a8643",
+        "android_client_info": {
+          "package_name": "com.example.bloomifyshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqtsqD35l7RuPEJEaXE_5SWnOlspvY5Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

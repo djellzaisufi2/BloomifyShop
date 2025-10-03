@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BloomifyShop</string>
+    <string name="introText">Welcome to\nBloomifyShop</string>
+    <string name="introSubtitle">Discover the beauty of fresh flowers\ndelivered right to your doorstep</string>
+    <string name="empty_cart">Your Cart is Empty</string>
+    <string name="empty_cart_message">Looks like you haven\'t added any items to your cart yet. Start shopping to add items.</string>
+</resources>
